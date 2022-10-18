@@ -52,6 +52,7 @@
     }
 }
 
+
 /* Mobile */
 @media (max-width: 739px) {
     :root{
@@ -78,7 +79,7 @@
         z-index: 1;
         box-shadow: 0 1px 2px rgba(0,0 ,0, 0.1);
         padding: 0 8px;
-        animation: mobileSearchSideIn ease-out 0.3s;
+        animation: mobileSearchSideIn 0.3s ease-out;
         display: none;
     }
 
@@ -114,10 +115,6 @@
     .header__logo-img{
         width: 110px;
     }
-
-    /* .footer{
-        padding: 0 12px;
-    } */
 
     .footer__content{
         padding: 0 12px;

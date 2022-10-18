@@ -14,8 +14,7 @@
 
 .row{
     display: flex;
-    flex-wrap: wrap;
-    /* cho xun hang khi vuot qua chieu ngang row */
+    flex-wrap: wrap;/* cho xun hang khi vuot qua chieu ngang row */
     margin-left: -4px;
     margin-right: -4px;
 }
@@ -142,8 +141,6 @@
 .c-o-11 {
     margin-left: 91.66667%;
 }
-
-
 
 
 
@@ -283,9 +280,6 @@
     }
 
 }
-
-
-
 
 
 /*  PC low resolution > */
@@ -447,9 +441,6 @@
         width: 644px;
     }
 }
-
-
-
 
 
 /* PC low resolution */
